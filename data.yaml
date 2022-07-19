@@ -1,0 +1,6 @@
+path: ../datasets/pollen_4classes/
+train: train/images
+val: valid/images
+
+nc: 4
+names: ['Alternaria', 'Basidiospora', 'Cladosporium', 'HDE']
